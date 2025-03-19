@@ -1,8 +1,19 @@
 {
   "name": "AILIQUIDITYBOT",
   "symbol": "AIB",
-  "uri": "https://raw.githubusercontent.com/jakes47/ai-liquidity-bot/main/logo.png", 
-  "decimals": 9,
-  "mintAddress": "BVacKa7kzPaeaRdkH7z8Gqegcnh7Ybkbfpw54CWibAsx",
-  "chain": "solana"
+  "description": "An AI-powered liquidity bot on Solana.",
+  "image": "https://raw.githubusercontent.com/jakes47/ai-liquidity-bot/main/logo.png",
+  "seller_fee_basis_points": 0,
+  "external_url": "https://jakes47.github.io/ai-liquidity-bot/",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/jakes47/ai-liquidity-bot/main/logo.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
 }
+
