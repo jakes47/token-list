@@ -1,6 +1,6 @@
 {
-  "name": "Your Token Name",
-  "symbol": "TOKEN",
+  "name": "AILIQUIDITYBOT",
+  "symbol": "AIB",
   "uri": "https://raw.githubusercontent.com/jakes47/ai-liquidity-bot/main/logo.png", 
   "decimals": 9,
   "mintAddress": "BVacKa7kzPaeaRdkH7z8Gqegcnh7Ybkbfpw54CWibAsx",
